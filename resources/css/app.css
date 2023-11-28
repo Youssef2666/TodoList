@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --white: #e7dfd5;
+}
+.nav {
+    color: var(--white);
+}
